@@ -9,7 +9,7 @@ function __bobthefish_glyphs -S -d 'Define glyphs used by bobthefish'
   # Additional glyphs
   set -x detached_glyph          \u27A6
   set -x tag_glyph               \u2302
-  set -x nonzero_exit_glyph      '! '
+  set -x nonzero_exit_glyph      '✘ '
   set -x private_glyph           \uE0A2 ' '
   set -x superuser_glyph         '$ '
   set -x bg_job_glyph            '% '

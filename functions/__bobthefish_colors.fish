@@ -5,8 +5,8 @@ function __bobthefish_colors -S -a color_scheme -d 'Define colors used by bobthe
       return
     
     case 'personal'
-      set -x color_initial_segment_exit     ff5733 ce000f --bold
-      set -x color_initial_segment_private  ffffff 255e87
+      set -x color_initial_segment_exit     000000 ce000f --bold
+      set -x color_initial_segment_private  ffffff ffffff
       set -x color_initial_segment_su       ffffff 189303 --bold
       set -x color_initial_segment_jobs     ffffff 255e87 --bold
       set -x color_path                     FF7400 404040 --bold
